@@ -1,5 +1,5 @@
 # spotify-using-powerbi
-🎵 Spotify Data Analytics Dashboard – Power BI
+<h1>🎵 Spotify Data Analytics Dashboard – Power BI</h1>
 
 This project showcases an interactive Power BI dashboard built to analyze Spotify music streaming data. It provides deep insights into top artists, tracks, and audio features such as energy, danceability, and tempo.
 
